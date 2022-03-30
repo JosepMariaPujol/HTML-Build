@@ -1,0 +1,59 @@
+
+
+project {
+	background-color:#ccc;
+	width:100%;
+	height:200px;
+	border: 5px solid red;
+	color:#1b1b1b;
+}
+
+building {
+	background-color:#ddd;
+	margin: auto;
+	height:200px;
+	padding:2px;
+	border-color: #000;
+	width:250px;
+	color:#1b1b1b;
+}
+
+site {
+	margin-top: auto;
+	padding-left:20px;
+}
+segment {
+	background-color:#fff;
+	border-style: dotted;
+	border-color: #000;
+	margin: auto;
+	padding:2px;
+	width:225px;
+	margin-top:2px;
+	color:#1b1b1b;
+}
+
+floor {
+	background-color:#eee;
+	margin: auto;
+	padding:2px;
+	width:200px;
+	margin-top:2px;
+	color:#1b1b1b;
+}
+
+.floor_name {
+	float:left;
+	padding-left:20px;
+}
+
+.floor_stats {
+	
+	float:right;
+	padding:3px;
+	border-radius:5px;
+	background-color:#fff;
+	margin-right:20px;
+	margin-top:3px;
+	
+}
