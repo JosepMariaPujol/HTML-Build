@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Building>
+  <Floor name="Floor1">
+    <Slab>
+      <Lenght>20</Lenght>
+      <Breadth>15</Breadth>
+      <Height>0.1</Height>
+    </Slab>
+    <Height>4</Height>
+    <Room>Meeting Room1</Room>
+    <Room>Meeting Room2</Room>
+  </Floor>
+  <Floor name="Floor2">
+    <Slab>
+      <Lenght>20</Lenght>
+      <Breadth>15</Breadth>
+      <Height>0.1</Height>
+    </Slab>
+    <Height>4.5</Height>
+    <Room>Meeting Room1</Room>
+    <Room>Meeting Room2</Room>
+  </Floor>
+  <Floor name="Floor3">
+    <Slab>
+      <Lenght>20</Lenght>
+      <Breadth>15</Breadth>
+      <Height>0.1</Height>
+    </Slab>
+    <Height>5.5</Height>
+    <Room>Meeting Room1</Room>
+    <Room>Meeting Room2</Room>
+  </Floor>
+</Building>
